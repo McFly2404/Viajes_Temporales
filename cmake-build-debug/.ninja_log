@@ -1,0 +1,8 @@
+# ninja log v5
+10	1318	7167807890573067	CMakeFiles/Trabajo_Lenguajes_V2.dir/main.cpp.obj	38669a374eb93931
+1347	1652	7167807893821979	Trabajo_Lenguajes_V2.exe	75d4b6a7f93164b9
+24	1347	7167807890863056	CMakeFiles/Trabajo_Lenguajes_V2.dir/ListaDoble.cpp.obj	d186d45e45a9556c
+3	279	7167928910427631	build.ninja	7e60ebcecde33ef9
+1	433	7167929014765904	CMakeFiles/Trabajo_Lenguajes_V2.dir/main.cpp.obj	a60d276ca0cfd744
+9	435	7167929014775881	CMakeFiles/Trabajo_Lenguajes_V2.dir/ListaDoble.cpp.obj	286af052ac96365b
+435	574	7167929016147347	Trabajo_Lenguajes_V2.exe	2a3198048a9297f2

@@ -1,0 +1,3 @@
+C:/Users/McFly/Desktop/Trabajo Lenguajes V2/cmake-build-debug/CMakeFiles/Trabajo_Lenguajes_V2.dir
+C:/Users/McFly/Desktop/Trabajo Lenguajes V2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/McFly/Desktop/Trabajo Lenguajes V2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
